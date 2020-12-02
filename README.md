@@ -27,14 +27,15 @@
 
 ### I. Rappels théoriques 
 
-A quoi peut servir une fonction de hachage ?
-Si on DL un fichier sur un site, qu'est-ce que le hashage peut permette de prevenir comme risque ?
+**A quoi peut servir une fonction de hachage ?**
+
+**Si on télécharge un fichier sur un site, quel risque peut-elle prévenir ?**
 
 ### II. Contrôle d'intégrité d'un téléchargement 
 
     - DL GNUPG pour Linux
 
-    - Avec Open SSL, vérifier que l'empreinte SHA1 de l'archive GNUPG est la meme que affichée sur le site ( pas d'alteration pdt le DL)
+    - Avec Open SSL, vérifier que l'empreinte SHA1 de l'archive GNUPG est la même que celle affichée sur le site (pas d'altération pendant le téléchargement)
 
         (expliquer les manipulations)
 
@@ -43,7 +44,7 @@ Si on DL un fichier sur un site, qu'est-ce que le hashage peut permette de preve
 
 ### I. Rappels théoriques 
 
-Rappelez les grands principes du chiffrement symétrique.
+**Rappelez les grands principes du chiffrement symétrique.**
 
 ### II. Chiffrement de fichier 
 
@@ -58,8 +59,9 @@ Rappelez les grands principes du chiffrement symétrique.
 
 ### I. Rappels théoriques 
 
-Rappellez les 2 application principale chiffrement asymetrique 
-Expliquez leurs principes de fonctionnement (expliquer les manip + indiquez les commandes qu'on a utilisé et les commennter)
+**Rappellez les 2 applications principales du chiffrement asymétrique.**
+
+**Expliquez leurs principes de fonctionnement** (expliquer les manip + indiquez les commandes qu'on a utilisé et les commennter)
 
 ### II. Préparation de la biclef 
 
