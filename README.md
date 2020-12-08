@@ -41,7 +41,7 @@ Elle peut prévenir la falsification d'un fichier, pour pouvoir garantir son int
 
     - Avec Open SSL, vérifier que l'empreinte SHA1 de l'archive GNUPG est la même que celle affichée sur le site (pas d'altération pendant le téléchargement)
 
-Je télécharge le fichier gnupg, sur son site, puis je compare sa signature SHA1 avec celle notée sur le site (``openssl sha1 gnupg-2.2.25.tar.bz2``), ce sont les mêmes :
+Je télécharge le fichier ``gnupg``, sur son site, puis je compare sa signature SHA1 avec celle notée sur le site (``openssl sha1 gnupg-2.2.25.tar.bz2``), ce sont les mêmes :
 
 ![](https://i.gyazo.com/96271da791d9d4d5b7d933399080b99e.png)
 
